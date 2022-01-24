@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+html,body{
+    height: 100%;
+    width: 100%;
+    /* background-color: red; */
+}
+
+#mapa{
+    width: 100%;
+    height: 100%;
+    }
+.mapa-container{
+    width: 100%;
+    height: 100%;
+}
